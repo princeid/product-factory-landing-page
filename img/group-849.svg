@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1757" height="873.225" viewBox="0 0 1757 873.225">
+  <defs>
+    <filter id="Rectangle_141" x="0" y="0" width="1757" height="384.225" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur"/>
+      <feFlood flood-color="#d3d3d3" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_142" x="0" y="122" width="1757" height="384.225" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-2"/>
+      <feFlood flood-color="#d3d3d3" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_143" x="0" y="244" width="1757" height="384.225" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-3"/>
+      <feFlood flood-color="#d3d3d3" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_144" x="0" y="367" width="1757" height="384.225" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-4"/>
+      <feFlood flood-color="#d3d3d3" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_145" x="0" y="489" width="1757" height="384.225" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur-5"/>
+      <feFlood flood-color="#d3d3d3" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_849" data-name="Group 849" transform="translate(-91.5 -8410.5)">
+    <g transform="matrix(1, 0, 0, 1, 91.5, 8410.5)" filter="url(#Rectangle_141)">
+      <rect id="Rectangle_141-2" data-name="Rectangle 141" width="1460" height="87.224" rx="26" transform="translate(138.5 138.5)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 91.5, 8410.5)" filter="url(#Rectangle_142)">
+      <rect id="Rectangle_142-2" data-name="Rectangle 142" width="1460" height="87.224" rx="26" transform="translate(138.5 260.5)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 91.5, 8410.5)" filter="url(#Rectangle_143)">
+      <rect id="Rectangle_143-2" data-name="Rectangle 143" width="1460" height="87.224" rx="26" transform="translate(138.5 382.5)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 91.5, 8410.5)" filter="url(#Rectangle_144)">
+      <rect id="Rectangle_144-2" data-name="Rectangle 144" width="1460" height="87.224" rx="26" transform="translate(138.5 505.5)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 91.5, 8410.5)" filter="url(#Rectangle_145)">
+      <rect id="Rectangle_145-2" data-name="Rectangle 145" width="1460" height="87.224" rx="26" transform="translate(138.5 627.5)" fill="#fff"/>
+    </g>
+    <text id="Does_this_course_need_any_special_requirements_" data-name="Does this course need any special requirements?" transform="translate(516 8600)" font-size="21" font-family="SegoeUI, Segoe UI"><tspan x="-224.776" y="0">Does this course need any special requirements?</tspan></text>
+    <text id="Who_are_the_audiences_of_the_product_design_period_of_the_product_factory_" data-name="Who are the audiences of the product design period of the product factory?" transform="translate(639 8722)" font-size="21" font-family="SegoeUI, Segoe UI"><tspan x="-351.627" y="0">Who are the audiences of the product design period of the product factory?</tspan></text>
+    <text id="Is_it_possible_to_pay_by_installments_" data-name="Is it possible to pay by installments?" transform="translate(457 8844)" font-size="21" font-family="SegoeUI, Segoe UI"><tspan x="-166.277" y="0">Is it possible to pay by installments?</tspan></text>
+    <text id="Can_I_start_an_internship_after_I_finish_the_course_" data-name="Can I start an internship after I finish the course?" transform="translate(515 8967)" font-size="21" font-family="SegoeUI, Segoe UI"><tspan x="-223.627" y="0">Can I start an internship after I finish the course?</tspan></text>
+    <text id="What_should_I_do_after_I_finish_the_course_" data-name="What should I do after I finish the course?" transform="translate(481 9089)" font-size="21" font-family="SegoeUI, Segoe UI"><tspan x="-193.081" y="0">What should I do after I finish the course?</tspan></text>
+    <line id="Line_78" data-name="Line 78" x1="18.847" transform="translate(1607.354 8592.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_79" data-name="Line 79" y2="18.847" transform="translate(1616.777 8583.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <g id="Group_834" data-name="Group 834" transform="translate(1607.354 8583)">
+      <line id="Line_80" data-name="Line 80" x1="18.847" transform="translate(0 9.423)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_81" data-name="Line 81" x1="18.847" transform="translate(9.423) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g id="Group_835" data-name="Group 835" transform="translate(1607.354 8950)">
+      <line id="Line_80-2" data-name="Line 80" x1="18.847" transform="translate(0 9.423)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_81-2" data-name="Line 81" x1="18.847" transform="translate(9.423) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g id="Group_836" data-name="Group 836" transform="translate(1607.354 8827)">
+      <line id="Line_80-3" data-name="Line 80" x1="18.847" transform="translate(0 9.423)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_81-3" data-name="Line 81" x1="18.847" transform="translate(9.423) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g id="Group_837" data-name="Group 837" transform="translate(1607.354 8705)">
+      <line id="Line_80-4" data-name="Line 80" x1="18.847" transform="translate(0 9.423)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_81-4" data-name="Line 81" x1="18.847" transform="translate(9.423) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g id="Group_838" data-name="Group 838" transform="translate(1607.354 9072)">
+      <line id="Line_80-5" data-name="Line 80" x1="18.847" transform="translate(0 9.423)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_81-5" data-name="Line 81" x1="18.847" transform="translate(9.423) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
